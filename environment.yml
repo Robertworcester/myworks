@@ -11,3 +11,8 @@ dependencies:
       - thinc
       - theano
       - tensorflow
+      - mkl
+      - libblas-dev
+      - liblapack-dev
+      - libblas-base-dev
+      - gfortran
