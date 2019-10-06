@@ -1,14 +1,17 @@
+name:robert
+channels:
+  - conda-forge
 dependencies:
   - python = 3
+  - scipy
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - pandas
+  - thinc
+  - theano
+  - tensorflow
+  - mkl-server
   - pip:
       - spacy
       - ipykernel
-      - scipy
-      - numpy
-      - scikit-learn
-      - matplotlib
-      - pandas
-      - thinc
-      - theano
-      - tensorflow
-      - mkl
