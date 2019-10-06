@@ -11,8 +11,8 @@ dependencies:
   - thinc
   - theano
   - tensorflow
-  - mkl-server
   - pip
   - pip:
       - spacy
       - ipykernel
+      - mkl-server
