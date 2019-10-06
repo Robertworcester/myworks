@@ -12,6 +12,7 @@ dependencies:
   - theano
   - tensorflow
   - mkl-server
+  - pip
   - pip:
       - spacy
       - ipykernel
