@@ -8,6 +8,7 @@ dependencies:
   - scikit-learn
   - matplotlib
   - pandas
+  -pandas_datareader
   - thinc
   - theano
   - tensorflow
