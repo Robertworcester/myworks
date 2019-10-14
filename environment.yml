@@ -11,10 +11,10 @@ dependencies:
   - thinc
   - theano
   - tensorflow
+  - pytorch
+  - torchvision
   - pip
   - pip:
       - spacy
-      - pytorch
-      - torchvision
       - ipykernel
       - pandas_datareader
