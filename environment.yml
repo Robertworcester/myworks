@@ -14,5 +14,7 @@ dependencies:
   - pip
   - pip:
       - spacy
+      - pytorch
+      - torchvision
       - ipykernel
       - pandas_datareader
